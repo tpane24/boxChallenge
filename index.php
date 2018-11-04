@@ -20,10 +20,10 @@
 		    </div>
 		    <div class="col">
 		      <div id="blueBox">
-						<div id="greenBox">
-							<div id="redBox"></div>
-						</div>
-					</div>
+			<div id="greenBox">
+			 <div id="redBox"></div>
+			</div>
+		      </div>
 		    </div>
 		    <div class="col">
 		      <!-- One of three columns -->
